@@ -160,7 +160,7 @@ dependencies:
   # For JSON to Dart class generator
   json_annotation: ^4.5.0
   # A powerful Http client for Dart
-  dio: ^4.0.6
+  dio: ^5.0.3
   # For saving images and videos in gallery
   gallery_saver: ^2.3.2
   # For animated search bar
